@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Formula1_project](https://github.com/loictiemani/Formula1_project/))
+- 🔭 I’m currently working on [Formula1_project](https://github.com/loictiemani/Formula1_project/)
 
 - 🌱 I’m currently learning **AWS, DBT**
 
